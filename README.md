@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Sunil
-Full-stack developer passionate about building secure, scalable, and user-friendly web apps using modern technologies like NestJS, Express, and React.
+
+Full-stack developer passionate about building secure, scalable, and user-friendly web apps. I work primarily with NestJS, Express, and React, and love solving real-world problems with clean, maintainable code.
+
+---
 
 ## 🛠 Technical Skills
+
 **Backend:** Node.js, Express.js, NestJS, JavaScript, REST APIs, Microservices  
 **Databases:** PostgreSQL, Redis, Firebase, Prisma, Sequelize  
 **Frontend:** ReactJS, HTML, CSS  
@@ -9,18 +13,26 @@ Full-stack developer passionate about building secure, scalable, and user-friend
 **Auth & Testing:** JWT, Keycloak, Unit Testing  
 **Tools:** Git, GitLab, Bitbucket, Jira, Postman, Swagger, pgAdmin4, VSCode, Winston  
 **Practices:** Agile, Scrum, Sprint Planning, Retrospectives  
-**Code Quality:** ESLint, Prettier, SonarQube  
+**Code Quality:** ESLint, Prettier, SonarQube
+
+---
 
 ## 🚀 Projects
-- [Portfolio](https://sunidk-portfolio.netlify.app/): React-based site showcasing my work  
-- [JSON Converter](https://sunidk-json-converter.netlify.app/): JSON formatting tool using React + Node  
-- [Shopping App](https://sunidk-shopping.netlify.app/): Responsive e-commerce UI with React & Bootstrap  
-- [Netflix Clone](https://sunidk-netfliix.netlify.app/): HTML/CSS Netflix-style UI  
-- [Backend Projects](https://github.com/sunidk?tab=repositories): JWT auth, Redis caching, OTP verification & more
 
-## 📬 Connect
-**LinkedIn:** [Sunil Kotian](https://linkedin.com/in/sunil-kotian-914428109)  
-**Portfolio:** [sunidk-portfolio.netlify.app](https://sunidk-portfolio.netlify.app)  
-**Email:** sunidk97@gmail.com
+- 🌐 [Portfolio](https://sunidk-portfolio.netlify.app/): React-based personal website to showcase my projects and skills.  
+- 🔄 [JSON Converter](https://sunidk-json-converter.netlify.app/): A tool built with React and Node.js for formatting and converting JSON data.  
+- 🛍️ [Shopping App](https://sunidk-shopping.netlify.app/): E-commerce UI built with React and Bootstrap, fully responsive and interactive.  
+- 🎬 [Netflix Clone](https://sunidk-netfliix.netlify.app/): Responsive Netflix-style landing page using HTML and CSS.  
+- ⚙️ [Backend Projects](https://github.com/sunidk?tab=repositories): NestJS/Express APIs with Redis caching, JWT authentication, and OTP verification.
 
-⭐ Feel free to explore, star, or fork anything you find useful!
+---
+
+## 📬 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/sunil-kotian-914428109)  
+- 🌐 [Portfolio](https://sunidk-portfolio.netlify.app/)  
+- 📧 sunidk97@gmail.com  
+
+---
+
+⭐ Thanks for visiting! Feel free to explore, star, or fork anything you find useful.
