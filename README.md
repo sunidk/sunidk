@@ -1,34 +1,26 @@
 # 👋 Hi, I'm Sunil
+Full-stack developer passionate about building secure, scalable, and user-friendly web apps using modern technologies like NestJS, Express, and React.
 
-Full-stack developer passionate about building secure, responsive, and user-friendly web apps. I focus on clean code and real-world problem solving.
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Node.js  
-- **Frameworks:** Express, React, Next.js  
-- **Tools:** JWT, Winston, MongoDB, PostgreSQL, Git  
-- **Platforms:** Vercel, Netlify, Railway, Postman  
-
----
+## 🛠 Technical Skills
+**Backend:** Node.js, Express.js, NestJS, JavaScript, REST APIs, Microservices  
+**Databases:** PostgreSQL, Redis, Firebase, Prisma, Sequelize  
+**Frontend:** ReactJS, HTML, CSS  
+**Cloud & DevOps:** GCP, AWS, Docker, Jenkins  
+**Auth & Testing:** JWT, Keycloak, Unit Testing  
+**Tools:** Git, GitLab, Bitbucket, Jira, Postman, Swagger, pgAdmin4, VSCode, Winston  
+**Practices:** Agile, Scrum, Sprint Planning, Retrospectives  
+**Code Quality:** ESLint, Prettier, SonarQube  
 
 ## 🚀 Projects
+- [Portfolio](https://sunidk-portfolio.netlify.app/): React-based site showcasing my work  
+- [JSON Converter](https://sunidk-json-converter.netlify.app/): JSON formatting tool using React + Node  
+- [Shopping App](https://sunidk-shopping.netlify.app/): Responsive e-commerce UI with React & Bootstrap  
+- [Netflix Clone](https://sunidk-netfliix.netlify.app/): HTML/CSS Netflix-style UI  
+- [Backend Projects](https://github.com/sunidk?tab=repositories): JWT auth, Redis caching, OTP verification & more
 
-- 🌐 [Portfolio](https://sunidk-portfolio.netlify.app/): React-based personal site showcasing my work.  
-- 🔄 [JSON Converter](https://sunidk-json-converter.netlify.app/): React + Node tool for formatting JSON data.  
-- 🛍️ [Shopping App](https://sunidk-shopping.netlify.app/): Responsive e-commerce UI built with React & Bootstrap.  
-- 🎬 [Netflix Clone](https://sunidk-netfliix.netlify.app/): HTML/CSS clone of Netflix with a modern layout.  
-- ⚙️ [Backend Projects](https://github.com/sunidk?tab=repositories): Features JWT auth, Redis caching, OTP verification, and more.
+## 📬 Connect
+**LinkedIn:** [Sunil Kotian](https://linkedin.com/in/sunil-kotian-914428109)  
+**Portfolio:** [sunidk-portfolio.netlify.app](https://sunidk-portfolio.netlify.app)  
+**Email:** sunidk97@gmail.com
 
----
-
-## 📬 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/sunil-kotian-914428109)  
-- 🌐 [Portfolio](https://sunidk-portfolio.netlify.app/)  
-- 📧 sunidk97@gmail.com  
-
----
-
-⭐ Explore, star, or fork anything you find useful!
+⭐ Feel free to explore, star, or fork anything you find useful!
