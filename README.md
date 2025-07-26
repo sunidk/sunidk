@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil
 
-Full-stack developer passionate about building secure, scalable, and user-friendly web apps. I work primarily with Node.js, Express.js, Nest.js and React, and love solving real-world problems with clean, maintainable code.
+Full-stack developer passionate about building secure, scalable, and user-friendly web apps. I work primarily with Node.js, Express.js, Nest.js and React.js, and love solving real-world problems with clean, maintainable code.
 
 ---
 
