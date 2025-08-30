@@ -6,9 +6,9 @@ Full-stack developer passionate about building secure, scalable, and user-friend
 
 ## 🛠 Technical Skills
 
-- **Backend:** Node.js, Express.js, Nest.js, JavaScript, REST APIs, Microservices  
+- **Backend:** Node.js, Express.js, Nest.js, JavaScript, TypeScript, REST APIs, Microservices  
 - **Databases:** PostgreSQL, Redis, MongoDB, Firebase, Prisma, Sequelize  
-- **Frontend:** ReactJS, HTML, CSS  
+- **Frontend:** ReactJS, HTML5, CSS3  
 - **Cloud & DevOps:** GCP, AWS, Docker, Jenkins  
 - **Auth & Testing:** JWT, Keycloak, Unit Testing  
 - **Tools:** Git, GitLab, Bitbucket, Jira, Postman, Swagger, pgAdmin4, VSCode, Winston
